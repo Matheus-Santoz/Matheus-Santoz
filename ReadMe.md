@@ -1,5 +1,5 @@
 # Sobre mim 💻:
-Olá! Me chamo Matheus Santos<br><br>Desde cedo, sou apaixonado por tecnologia e encontrei no desenvolvimento de sistemas<br>a minha verdadeira vocação. Gosto de desafios e estou sempre em busca da melhor <br>solução para cada problema. <br><br>Concluí o ensino médio técnico em Análise e Desenvolvimento de Sistemas na ETEC de Guaianases e, <br>atualmente, estou cursando o tecnólogo na Fatec São Paulo, no 1º semestre. <br>Sigo aprendendo e me aprimorando todos os dias para construir soluções criativas e <br>eficientes.
+Olá! Me chamo Matheus Santos<br><br>Desde cedo, sou apaixonado por tecnologia e encontrei no desenvolvimento de sistemas<br>a minha verdadeira vocação. Gosto de desafios e estou sempre em busca da melhor <br>solução para cada problema. <br><br>Concluí o ensino médio técnico em Análise e Desenvolvimento de Sistemas na ETEC de Guaianases e, <br>atualmente, estou cursando o tecnólogo na Fatec São Paulo, no 2º semestre. <br>Sigo aprendendo e me aprimorando todos os dias para construir soluções criativas e <br>eficientes.
 
 
 ## Redes :
